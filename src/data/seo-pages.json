@@ -1,0 +1,40 @@
+[
+  {
+    "slug": "fotvard-lulea",
+    "keyword": "Fotvård",
+    "area": "Luleå",
+    "title": "Fotvård i Luleå – Vackerbackens Medicinska Fotvård",
+    "metaDescription": "Fotvård i Luleå hos Vackerbackens Medicinska Fotvård. Diplomerad fotterapeut i Vackerbacken med fri parkering. Boka via Bokadirekt eller ring 070-300 19 19.",
+    "hero": {
+      "eyebrow": "Fotvård i Luleå",
+      "title": "Fotvård i Luleå",
+      "description": "Letar du efter fotvård i Luleå? Vackerbackens Medicinska Fotvård erbjuder professionell fotvård i en naturskön miljö i Vackerbacken, ett stenkast från Luleå centrum. Diplomerad fotterapeut, medlem i Sveriges Medicinska fotterapeuter."
+    },
+    "intro": {
+      "heading": "Professionell fotvård i Luleå – nära dig",
+      "paragraphs": [
+        "Vackerbackens Medicinska Fotvård är din lokala klinik för fotvård i Luleå. Vi tar emot dig i natursköna Vackerbacken där du får personlig service, fri parkering och en lugn miljö för din behandling.",
+        "Oavsett om du behöver hjälp med förhårdnader, liktorn, nagelvård eller bara vill ha en grundlig vårdande behandling – vi tar oss alltid den tid som krävs för dina fötter."
+      ]
+    }
+  },
+  {
+    "slug": "medicinsk-fotvard-lulea",
+    "keyword": "Medicinsk fotvård",
+    "area": "Luleå",
+    "title": "Medicinsk fotvård i Luleå – Vackerbackens Medicinska Fotvård",
+    "metaDescription": "Medicinsk fotvård i Luleå av diplomerad fotterapeut. Behandling av liktorn, förhårdnader, nagelsvamp och mer. Fri parkering i Vackerbacken. Boka via Bokadirekt.",
+    "hero": {
+      "eyebrow": "Medicinsk fotvård i Luleå",
+      "title": "Medicinsk fotvård i Luleå",
+      "description": "Diplomerad medicinsk fotterapeut i Luleå. Vi behandlar allt från förhårdnader och liktorn till nagel- och hudsvamp samt vårtor. Medlem i Sveriges Medicinska fotterapeuter. Trygg och professionell vård i Vackerbacken."
+    },
+    "intro": {
+      "heading": "Medicinsk fotvård i Luleå med medicinsk kompetens",
+      "paragraphs": [
+        "Behöver du medicinsk fotvård i Luleå? Hos Vackerbackens Medicinska Fotvård får du behandling av en diplomerad fotterapeut med lång erfarenhet av medicinska fotproblem. Vi tar oss an både vardagliga behov och mer komplexa tillstånd.",
+        "Vi erbjuder också ambulerande medicinsk fotvård för dig som har svårt att ta dig till kliniken. Ring oss för att boka hembesök eller boka enkelt online via Bokadirekt."
+      ]
+    }
+  }
+]

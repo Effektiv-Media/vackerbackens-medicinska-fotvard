@@ -130,7 +130,23 @@ export default function Footer() {
                 {business.email}
               </a>
             </li>
-            <li className="text-white/50 text-sm font-sans">{business.area}</li>
+            <li>
+              <a
+                href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+                  `${business.address.streetAddress}, ${business.address.postalCode} ${business.address.addressLocality}`
+                )}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-white/50 text-sm hover:text-brand-accent transition-colors duration-200 font-sans"
+              >
+                <address className="not-italic leading-relaxed">
+                  {business.address.streetAddress}
+                  <br />
+                  {business.address.postalCode}{" "}
+                  {business.address.addressLocality}
+                </address>
+              </a>
+            </li>
           </ul>
           <a
             href="#section-5"
